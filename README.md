@@ -1,3 +1,3 @@
 # JavaPjt
-Project of java
+Project of java \n
 hello java
