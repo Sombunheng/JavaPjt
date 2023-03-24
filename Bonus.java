@@ -11,7 +11,7 @@ public class Bonus {
 
                     -------------Menu-------------
                     1.  Second to Time
-                    2.  Time ti Second
+                    2.  Time to Second
                     3.  Calling Cost
                     4.  Riels to Dollar
                     5.  Traveling Duration
