@@ -1,3 +1,2 @@
 # JavaPjt
-Project of java \n
-hello java
+How to setup , compile , and run project locally
